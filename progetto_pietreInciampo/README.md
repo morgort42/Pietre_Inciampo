@@ -5,7 +5,7 @@ Descrizione breve del progetto didattico.
 ## Requisiti
 
 - Docker Desktop (Windows/Mac) o Docker Engine (Linux) installato
-- Immagine base `didattica-php:latest` già costruita (vedi `docker-base-image/`)
+- Immagine base `didattica-php:latest` già costruita (vedi `docker-base-image`)
 
 ## Avvio rapido
 
