@@ -6,7 +6,7 @@ class PeopleRepository
     static function getPeople() : array
     {
         return [
-            '1' => [ 
+            '1' => [
                 'nome' => 'Giacomo',
                 'cognome' => 'Mottinelli',
                 'nazionalita' => 'Italiano',
